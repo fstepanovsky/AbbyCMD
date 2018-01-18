@@ -7,4 +7,4 @@ Command-line application for communication with AbbyyRest
 
 (for different directory change in [RSSoapService.java](https://github.com/jkremlacek/AbbyCMD/blob/master/src/main/java/com/abbyy/recognitionserver3_xml/recognitionserver3_xml/RSSoapService.java) lines 18, 30, 34 for directory you want to use.
 
-3. run `java -jar abbycmd.jar -i imagepath -oO ocrtxtpath -oA ocraltopath`
+3. run `java -jar abbycmd.jar -i imagepath -oO ocr_txt_path -oA ocr_alto_path`
